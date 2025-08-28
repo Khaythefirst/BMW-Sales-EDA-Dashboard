@@ -8,8 +8,7 @@ Insights and recommendations are provided on the following key areas:
 
 - **Sales & Revenue Trends Over Years**: An analysis of how BMW's total sales/revenue changes over time (year by year), which helps determine overall growth or decline.
 - **Model & Fuel type performance**: An evaluation of how various BMW models contribute to total sales and revenue.
-- **Regional Sales Performance**: A comparative analysis of BMW's performance in different regions.
-- **Revenue Contribution by Model and Region**: A review of which models perform best in which regions. These include regional preferences for specific models, as well as strategic product placement opportunities.
+- **Regional Performance**: A comparative analysis of BMW's performance in different regions. A review of which models perform best in which regions. These include regional preferences for specific models, as well as strategic product placement opportunities.
 
 Download the interactive Power BI dashboard here.
 
@@ -41,10 +40,30 @@ Below is the overview page from the Power BI dashboard and more examples are inc
 
 ### Model & Fuel type performance:
 
-- BMW 7 series is the best selling model, contributing a total of $1.79 trillion to the total revenue and 23.79 million unit sold across all regions.
-- 
+- Across the years and regions, the 7 Series, 3 Series, i8, X1, and 5 Series consistently rank as BMW’s top-selling models.
+- With the 7 Series standing out by appearing in the top five for 11 different years. The 7 Series alone contributed an impressive $1.79 trillion in revenue and 23.79 million units sold, making it the brand’s strongest performer.
+- Notably, it sold the highest number of hybrid cars, totaling 6.2 million units, alongside 6.1 million diesel, 5.8 million petrol, and 5.7 million electric.
+- At the other end of the spectrum, the M3 model ranks as the weakest performer in both sales and revenue.
+- When comparing fuel types, hybrid vehicles lead the pack, generating $4.82 trillion in revenue, outperforming petrol, electric, and diesel categories. This reflects a clear consumer preference shift toward hybrid models within BMW’s lineup.
 
+### Regional Performance:
 
+- BMW’s revenue distribution across regions is fairly balanced, though some stand out more than others. Asia leads the pack, contributing 17.1% of total revenue and achieving 42.97 million sales, with the X1 and hybrid models driving its success.
+- Europe follows closely with 16.77% of revenue and 42.56 million cars sold, where the i8 and hybrids dominate.
+- In North America, revenue share stands at 16.74% with 42.40 million sales, led by the 7 Series and electric vehicles.
+- The Middle East comes next at 16.66% of revenue and 42.33 million sales, where the 7 Series and petrol cars perform best.
+- South America accounts for 16.38% of revenue with 41.55 million sales, driven by the X6 and diesel models.
+- Finally, Africa rounds out the list at 16.35% of revenue and 41.57 million sales, with the 5 Series and petrol vehicles leading the way.
+- Overall, the data highlights Asia as the strongest region, while Africa and South America trail slightly behind, though each region shows distinct model and fuel type preferences that shape BMW’s global performance.
 
+### Recommendation:
+
+Based on the uncovered insights, the following recommendations have been provided.
+
+- Regional performance reveals clear differences in customer preferences, which are closely related to each region's economic level.
+- Hybrid vehicles are dominant in Asia, Europe, North America, and the Middle East, accounting for a significant portion of revenue and sales, whereas their impact is less pronounced in South America and Africa.
+- This suggests that matching vehicle distribution to regional demand is critical to maintaining growth.
+- To increase sales, BMW should prioritize marketing more hybrid models to regions where it already leads, while also reinforcing other fuel types where it is dominant.
+- The data clearly shows that success is not just about the model, but also about matching the right fuel type to the right region, based on customer preferences and local economic realities.
 
 
