@@ -6,8 +6,8 @@ This project focuses on exploratory data analysis (EDA) and dashboard creation u
 
 Insights and recommendations are provided on the following key areas:
 
-- **Revenue Trends Over Years**: An analysis of how BMW's total revenue changes over time (year by year), which helps determine overall sales growth or decline.
-- **Sales Distribution by Model**: An evaluation of how various BMW models contribute to total sales.
+- **Sales & Revenue Trends Over Years**: An analysis of how BMW's total sales/revenue changes over time (year by year), which helps determine overall growth or decline.
+- **Model & Fuel type performance**: An evaluation of how various BMW models contribute to total sales and revenue.
 - **Regional Sales Performance**: A comparative analysis of BMW's performance in different regions.
 - **Revenue Contribution by Model and Region**: A review of which models perform best in which regions. These include regional preferences for specific models, as well as strategic product placement opportunities.
 
@@ -32,12 +32,17 @@ With a notable peak in 2022, BMW's sales have grown significantly across seven r
 Below is the overview page from the Power BI dashboard and more examples are included throughout the report. The entire interactive dashboard can be downloaded here.
 
 
-### Revenue Trends:
+### Sales & Revenue Trends:
 
-- With 17,920,946 sales in 2022, the company's revenue reached a peak of $1,344,427,738,820 annually.
-- A significant decline in revenue and sales, recording the lowest sales and revenue, 16,268,654 and $1,224,302,534,555 respectively.
+- BMW’s performance between 2010 and 2024 shows clear highs and lows. In 2022, the company hit its peak, generating $1.34 trillion in revenue with 17.9 million units sold, marking the strongest year in the period under review.
+- However, there were setbacks along the way. Both 2020 and 2023 saw significant drops, with 2023 being the weakest year, recording just $1.22 trillion in revenue and 16.2 million sales.
+- Despite these downturns, the brand showed resilience. A slight recovery in 2021 paved the way for a peak 2022, and following a dramatic drop in 2023, sales and revenue rebounded strongly in 2024.
+- Overall, the year-over-year trends show a cyclical pattern of decline and recovery, but one that consistently demonstrates BMW's strong market presence and ability to rebound.
 
+### Model & Fuel type performance:
 
+- BMW 7 series is the best selling model, contributing a total of $1.79 trillion to the total revenue and 23.79 million unit sold across all regions.
+- 
 
 
 
