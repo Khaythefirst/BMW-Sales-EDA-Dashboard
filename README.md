@@ -10,16 +10,16 @@ Insights and recommendations are provided on the following key areas:
 - **Model & Fuel type performance**: An evaluation of how various BMW models contribute to total sales and revenue.
 - **Regional Performance**: A comparative analysis of BMW's performance in different regions. A review of which models perform best in which regions. These include regional preferences for specific models, as well as strategic product placement opportunities.
 
-Download the interactive Power BI dashboard here.
+Download the interactive Power BI dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiYzU4NmIzNzktYmFiMC00NTQyLWFhNGEtZWI0YjY0MTE4NjBhIiwidCI6IjM1YmEzNjIzLWQzNDgtNDAxMi04OTkwLWMxNWI2YThlNGRkNCJ9).
 
-The SQL queries used for the exploratory data analysis can be found here.
+The SQL queries used for the exploratory data analysis can be found [here](SQL (BMW) files/01_EDA_queries.sql).
 
-All SQL queries regarding various business questions are available here.
+All SQL queries regarding various business questions are available [here](SQL (BMW) files/01_EDA_queries.sql).
 
 ## Data Structure
 The BMW sales data consists of 11 columns: Model, Year, Region, Color, Fuel_type, Transmission, Engine_size_L, Mileage_KM, Price_USD, Sales_Volume, Sales_Classification with a total row count of 50,000 rows.
 
-Source:
+Source: https://www.kaggle.com/datasets/y0ussefkandil/bmw-sales2010-2024
 
 _**P.S**: Upon cleaning the data, no duplicates were found and no null or blank values. Regardless, I still standardize all data._
 
@@ -28,9 +28,9 @@ _**P.S**: Upon cleaning the data, no duplicates were found and no null or blank 
 
 With a notable peak in 2022, BMW's sales have grown significantly across seven regions between 2010 and 2024. Analysis by model and fuel type reveals that certain models consistently outsell others, with hybrid vehicles dominating most regions and petrol vehicles showing emerging growth trends. Though certain models can be held largely responsible for this increase, the following sections will address additional contributing factors and highlight important areas for improvement.
 
-Below is the overview page from the Power BI dashboard and more examples are included throughout the report. The entire interactive dashboard can be downloaded here.
+Below is the overview page from the Power BI dashboard and more examples are included throughout the report. The entire interactive dashboard can be downloaded [here](https://app.powerbi.com/view?r=eyJrIjoiYzU4NmIzNzktYmFiMC00NTQyLWFhNGEtZWI0YjY0MTE4NjBhIiwidCI6IjM1YmEzNjIzLWQzNDgtNDAxMi04OTkwLWMxNWI2YThlNGRkNCJ9).
 
-![Dashboard Preview](SQL (BMW) files/Dashboard Image.png)
+<img width="1511" height="854" alt="Image" src="https://github.com/user-attachments/assets/4a19cda5-f6e0-4587-8048-c13bef3e1fc1" />
 
 
 ### Sales & Revenue Trends:
