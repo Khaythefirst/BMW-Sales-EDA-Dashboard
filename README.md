@@ -12,9 +12,9 @@ Insights and recommendations are provided on the following key areas:
 
 Download the interactive Power BI dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiYzU4NmIzNzktYmFiMC00NTQyLWFhNGEtZWI0YjY0MTE4NjBhIiwidCI6IjM1YmEzNjIzLWQzNDgtNDAxMi04OTkwLWMxNWI2YThlNGRkNCJ9).
 
-The SQL queries used for the exploratory data analysis can be found [here]([SQL (BMW) files/01_EDA_queries.sql](https://github.com/Khaythefirst/BMW-Sales-EDA-Dashboard/tree/main/SQL%20(BMW)%20files)).
+The SQL queries used for the exploratory data analysis can be found [here](https://github.com/Khaythefirst/BMW-Sales-EDA-Dashboard/blob/main/SQL%20(BMW)%20files/01_EDA_queries.sql).
 
-All SQL queries regarding various business questions are available [here]([SQL (BMW) files/01_EDA_queries.sql](https://github.com/Khaythefirst/BMW-Sales-EDA-Dashboard/tree/main/SQL%20(BMW)%20files)).
+All SQL queries regarding various business questions are available [here](https://github.com/Khaythefirst/BMW-Sales-EDA-Dashboard/blob/main/SQL%20(BMW)%20files/02_Business_questions_queries.sql).
 
 ## Data Structure
 The BMW sales data consists of 11 columns: Model, Year, Region, Color, Fuel_type, Transmission, Engine_size_L, Mileage_KM, Price_USD, Sales_Volume, Sales_Classification with a total row count of 50,000 rows.
