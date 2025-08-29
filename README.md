@@ -30,7 +30,7 @@ With a notable peak in 2022, BMW's sales have grown significantly across seven r
 
 Below is the overview page from the Power BI dashboard and more examples are included throughout the report. The entire interactive dashboard can be downloaded here.
 
-<img width="1511" height="854" alt="Image" src="https://github.com/user-attachments/assets/aff330cd-7e4e-4ad8-8a50-e43e8ea4a790" />
+![Dashboard Preview](SQL (BMW) files/Dashboard Image.png)
 
 
 ### Sales & Revenue Trends:
